@@ -1,1 +1,1 @@
-# Kraziwigg React App
+# KraziWigg React App
