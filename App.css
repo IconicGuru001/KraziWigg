@@ -1,8 +1,21 @@
+:root {
+  --primary: #A3FF12;
+  --primary-hover: #8FE000;
+  --secondary: #6D28D9;
+
+  --bg: #0B0B0F;
+  --card: #14141C;
+  --border: #2A2A35;
+
+  --text: #FFFFFF;
+  --text-secondary: #A1A1AA;
+}
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: black;
-  color: white;
+  background: var(--bg);
+  color: var(--text);
 }
 
 .header {
@@ -60,7 +73,7 @@ video {
 }
 
 .actions button {
-  background: none;
+  background: var(--primary);
   border: none;
   color: white;
   font-size: 24px;
