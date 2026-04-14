@@ -1,6 +1,7 @@
 # KraziWigg 🎥
 
-KraziWigg is a TikTok-inspired social media web app built with React.
+KraziWigg is a modern social media web app for short videos.
+Short videos, Big vibes.
 
 ## Features
 - Vertical video feed
