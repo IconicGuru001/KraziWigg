@@ -1,0 +1,15 @@
+body {
+  font-family: Arial;
+  background: linear-gradient(135deg, #ccff00, #8000ff);
+  color: white;
+  text-align: center;
+}
+
+.app {
+  padding: 20px;
+}
+
+.feed video {
+  width: 300px;
+  margin: 10px;
+}
